@@ -1,24 +1,9 @@
 ### Hello 👋
 
-Welcome to my GitHub profile. I'm a full-stack developer by day, and love exploring things Linux and retro computing/gaming in my free time. 
+Welcome to my GitHub profile. I'm a full-stack developer by day, and love exploring things Linux and retro computing/gaming in my free time.
 
-Some of interests result in code and/or repositories that might have led you to this very profile. I no longer host these kinds of projects on GitHub for numerous reasons, so if you're looking for something that isn't daytime-work related and isn't preserved here on my account, you'll probably be able to find it on [my self-hosted Gitea instance](https://git.davejansen.com/). 
+If you're looking for something that isn't $dayjob related, you may want to check out my [my self-hosted Forge](https://davejansen.dev/).
 
-If not, please do reach out to me. You can find my contact information in the sidebar on the left here, or [on my blog](https://davejansen.com/about/).
+Please do reach out to me if you have any questions or are interested in working together. You can find my contact information in the sidebar on the left here, or [on my blog](https://davejansen.com/about/).
 
 Thank you for visiting!
-
-<!--
-**jibsaramnim/jibsaramnim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
